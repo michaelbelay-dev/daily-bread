@@ -3,7 +3,7 @@
 ![Frontend](https://img.shields.io/badge/Frontend-Vanilla_JS-yellow)
 ![Status](https://img.shields.io/badge/Status-Live-success)
 
-# ✝️ Daily Bread — Scripture for the Soul
+# ☦️ Daily Bread — Scripture for the Soul
 
 A modern, full-stack Bible verse website built with vanilla HTML/CSS/JS 
 and hosted entirely on AWS.
@@ -11,7 +11,7 @@ and hosted entirely on AWS.
 ![Daily Bread Preview](docs/preview.png)
 
 ## 🌐 Live Site
-[Visit Daily Bread →](https://yourdomain.com)
+[Visit Daily Bread →](https://michael-cloud-lab.click/)
 
 ## ✨ Features
 - 📖 221 Bible verses across the full Old & New Testament
@@ -71,6 +71,6 @@ Browser → API Gateway → Lambda → Anthropic API (Translation)
 
 ## 👤 Author
 **Michael Belay**  
-IT System Administrator | Cloud Enthusiast | Built with faith in Jesus Christ  
+IT System Administrator | Cloud Enthusiast  
 [LinkedIn](https://www.linkedin.com/in/michael-belay-149093221/) · 
 [GitHub](https://github.com/michaelbelay-dev)
