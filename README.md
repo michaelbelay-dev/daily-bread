@@ -29,10 +29,7 @@ and hosted entirely on AWS.
 
 ## 🏗️ Architecture
 
-\`\`\`
-Browser → CloudFront CDN → S3 (Static Site)
-Browser → API Gateway → Lambda → Anthropic API (Translation)
-\`\`\`
+![Daily Bread Preview](docs/architecture.png)
 
 ## ☁️ AWS Services Used
 | Service | Purpose |
